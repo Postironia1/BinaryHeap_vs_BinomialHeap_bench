@@ -1,0 +1,20 @@
+time of 1000 findMax() operations in maxHeap with 1000 elements: 7.03e-05
+time of 1 worst findMax() operation in maxHeap with 1000 elements: 1e-07
+time of 1000 findMax() operations in in binomialHeap with 1000 elements: 0.0100228
+time of 1 worst findMax() operation in binomialHeap with 1000 elements: 3.92e-05
+time of 1000 findMax() operations in maxHeap with 10000 elements: 7.29e-05
+time of 1 worst findMax() operation in maxHeap with 10000 elements: 2e-07
+time of 1000 findMax() operations in in binomialHeap with 10000 elements: 0.0737082
+time of 1 worst findMax() operation in binomialHeap with 10000 elements: 0.00015
+time of 1000 findMax() operations in maxHeap with 100000 elements: 6.17e-05
+time of 1 worst findMax() operation in maxHeap with 100000 elements: 1e-07
+time of 1000 findMax() operations in in binomialHeap with 100000 elements: 2.94892
+time of 1 worst findMax() operation in binomialHeap with 100000 elements: 0.0129971
+time of 1000 findMax() operations in maxHeap with 1e+06 elements: 7.64e-05
+time of 1 worst findMax() operation in maxHeap with 1e+06 elements: 3e-07
+time of 1000 findMax() operations in in binomialHeap with 1e+06 elements: 30.6546
+time of 1 worst findMax() operation in binomialHeap with 1e+06 elements: 0.0446231
+time of 1000 findMax() operations in maxHeap with 1e+07 elements: 7.64e-05
+time of 1 worst findMax() operation in maxHeap with 1e+07 elements: 2e-07
+time of 1000 findMax() operations in in binomialHeap with 1e+07 elements: 309.428
+time of 1 worst findMax() operation in binomialHeap with 1e+07 elements: 0.390812

@@ -1,0 +1,12 @@
+time of 1000 deleteMax() operations in in maxHeap with 1000 elements: 0.0010286
+time of 1 worst deleteMax() operation in maxHeap with 1000 elements: 3.9e-06
+time of 1000 deleteMax() operations in in binomialHeap with 1000 elements: 0.0001183
+time of 1 worst deleteMax() operation in binomialHeap with 1000 elements: 5e-06
+time of 1000 deleteMax() operations in in maxHeap with 10000 elements: 0.0015382
+time of 1 worst deleteMax() operation in maxHeap with 10000 elements: 3.9e-06
+time of 1000 deleteMax() operations in in binomialHeap with 10000 elements: 0.0001488
+time of 1 worst deleteMax() operation in binomialHeap with 10000 elements: 1.44e-05
+time of 1000 deleteMax() operations in in maxHeap with 100000 elements: 0.0019391
+time of 1 worst deleteMax() operation in maxHeap with 100000 elements: 2.62e-05
+time of 1000 deleteMax() operations in in binomialHeap with 100000 elements: 0.0001201
+time of 1 worst deleteMax() operation in binomialHeap with 100000 elements: 5.8e-06

@@ -1,0 +1,20 @@
+time inserting 1000 elements in maxHeap with 1000 elements: 0.0003439
+worst time inserting 1 element in maxHeap with 1000 elements: 1.11e-05
+time inserting 1000 elements in binomialHeap with 1000 elements: 0.000331
+worst time inserting 1 element in binomialHeap with 1000 elements: 2.77e-05
+time inserting 1000 elements in maxHeap with 10000 elements: 0.0003194
+worst time inserting 1 element in maxHeap with 10000 elements: 9e-07
+time inserting 1000 elements in binomialHeap with 10000 elements: 0.0003939
+worst time inserting 1 element in binomialHeap with 10000 elements: 8.07e-05
+time inserting 1000 elements in maxHeap with 100000 elements: 0.0003246
+worst time inserting 1 element in maxHeap with 100000 elements: 2.4e-06
+time inserting 1000 elements in binomialHeap with 100000 elements: 0.0003347
+worst time inserting 1 element in binomialHeap with 100000 elements: 7.24e-05
+time inserting 1000 elements in maxHeap with 1e+06 elements: 0.0003793
+worst time inserting 1 element in maxHeap with 1e+06 elements: 1.5e-06
+time inserting 1000 elements in binomialHeap with 1e+06 elements: 0.0004072
+worst time inserting 1 element in binomialHeap with 1e+06 elements: 7.93e-05
+time inserting 1000 elements in maxHeap with 1e+07 elements: 0.0003228
+worst time inserting 1 element in maxHeap with 1e+07 elements: 9e-07
+time inserting 1000 elements in binomialHeap with 1e+07 elements: 0.000341
+worst time inserting 1 element in binomialHeap with 1e+07 elements: 8.13e-05
